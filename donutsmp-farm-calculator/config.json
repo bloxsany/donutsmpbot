@@ -1,0 +1,33 @@
+{
+  "token": "MTM5OTA4OTcyNTU4MjYxMDQ1Mg.GjQ2R2.Bi7c0H3pJi_wRUTn21hJFOqpSqwQM7NGtM-dow",
+  "farms": {
+    "fungus": {
+      "1": {
+        "name": "Concept v1 Fungus Farm",
+        "income": 1.1
+      },
+      "2": {
+        "name": "Concept v1.1 Fungus Farm",
+        "income": 1.25
+      }
+    },
+    "pickle": {
+      "1": {
+        "name": "3706 v1 pickle farm",
+        "income": 0.072
+      },
+      "2": {
+        "name": "3706 v2 pickle farm",
+        "income": 0.137
+      },
+      "3": {
+        "name": "3706 v3 pickle farm",
+        "income": 0.144
+      },
+      "4": {
+        "name": "3706 v4 pickle farm (mini)",
+        "income": 0.432
+      }
+    }
+    }
+  }
